@@ -1,6 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Piyush+Baghel;Full+Stack+Developer;Automation+Enthusiast;AI+Workflow+Builder;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Piyush+Baghel;Full+Stack+Developer;Automation+Enthusiast;AI+Workflow+Builder;Problem+Solver"/>
 </p>
+
+
+
+
 
 <h3 align="center">
 Full Stack Developer | Automation Enthusiast | Problem Solver
@@ -12,15 +16,13 @@ Computer Science student passionate about building scalable applications, automa
 
 ---
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 🚀 About Me
 
-* 🎓 **B.Tech CSE — ABES Engineering College**
+* 🎓 **B.Tech CS — ABES Engineering College**
 * 💻 **Interested in Full Stack Development & AI Applications**
 * ⚡ **Exploring Automation with n8n, AI tools & AI workflows**
 * 🧠 **Practicing Data Structures & Algorithms**
-* 🌱 **Currently learning System Design & Backend Development**
 
 ---
 
