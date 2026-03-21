@@ -18,7 +18,7 @@ Computer Science student passionate about building full-stack applications, ML-i
 
 # 🚀 About Me
 
-* 🎓 **B.Tech CS — ABES Engineering College, Ghaziabad | CGPA: 8.26**
+* 🎓 **B.Tech CS — ABES Engineering College, Ghaziabad | CGPA: 8.29**
 * 💻 **Building Full Stack Apps with Python, Flask, React.js & SQL**
 * 🤖 **Integrating ML Models into production web applications**
 * 🧠 **200+ DSA Problems solved on LeetCode, HackerRank & CodeChef**
