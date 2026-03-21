@@ -122,18 +122,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 
 </p>
 
-### Automation & AI Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Claude_AI-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 📊 GitHub Stats
@@ -142,10 +130,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 <img src="https://github-readme-stats.vercel.app/api?username=piyushb03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushb03&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushb03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
 </p>
 
 ---
@@ -166,9 +150,9 @@ Mental health risk prediction platform using Machine Learning.
 * Full stack ML deployment on Render
 
 <p>
-<a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://mindsphere-g3mn.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 &nbsp;
-<a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/piyushb03/Mind-Sphere"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -190,7 +174,7 @@ AI-powered SaaS analytics platform for generating dashboards, insights, and sale
 <p>
 <a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 &nbsp;
-<a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/piyushb03/InsightlyAI"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -210,9 +194,9 @@ Smart personal finance and expense tracking application.
 * RESTful APIs with live net balance sync
 
 <p>
-<a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://spend-wise-nu.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 &nbsp;
-<a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/piyushb03/SpendWise"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
