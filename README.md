@@ -39,10 +39,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://codolio.com/profile/piyushbaghel">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://instagram.com/piyushbaghel03">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -54,7 +50,16 @@ Computer Science student passionate about building full-stack applications, ML-i
 # 🧠 Coding Profiles
 
 <p>
+<a href="https://codolio.com/profile/piyushbaghel">
+  <img src="https://img.shields.io/badge/Codolio-4B0082?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
 
+
+
+
+
+
+  
 <a href="https://leetcode.com/u/piyushb10/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
