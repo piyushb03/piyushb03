@@ -124,16 +124,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=piyushb03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushb03&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 # 📌 Featured Projects
 
 ## 🧠 MindSphere
