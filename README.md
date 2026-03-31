@@ -81,14 +81,22 @@ Computer Science student passionate about building full-stack applications, ML-i
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,sql"/>
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>   
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flask,html,css,nodejs"/>
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>    
 
 ### Tools & Platforms
 
@@ -121,84 +129,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-## 🧠 MindSphere
-
-Mental health risk prediction platform using Machine Learning.
-
-**Tech:** Flask, XGBoost, SHAP, Scikit-learn, Google OAuth, Python
-
-**Features**
-
-* Explainable AI predictions using SHAP visual feature importance
-* Secure Google OAuth 2.0 + bcrypt authentication
-* Dynamic PDF report generation per assessment
-* Full stack ML deployment on Render
-
-<p>
-<a href="https://mindsphere-g3mn.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-&nbsp;
-<a href="https://github.com/piyushb03/Mind-Sphere"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 InsightlyAI
-
-AI-powered SaaS analytics platform for generating dashboards, insights, and sales forecasts from uploaded business data.
-
-**Tech:** Next.js, Flask, SQLAlchemy, Tailwind CSS, Recharts, Pandas, Groq API
-
-**Features**
-
-* Upload Excel/CSV → automatic dashboard generation
-* AI-powered business insights via Groq API
-* Sales forecasting using time-series models
-* Secure JWT authentication
-* Exportable analytical reports
-
-<p>
-<a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-&nbsp;
-<a href="https://github.com/piyushb03/InsightlyAI"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 💸 SpendWise
-
-Smart personal finance and expense tracking application.
-
-**Tech:** Flask, SQLAlchemy, SQLite, JavaScript, Chart.js, REST API
-
-**Features**
-
-* Dark-mode glassmorphism UI with real-time financial dashboard
-* Full CRUD transaction management with category filtering
-* Soft-delete recycle bin for safe data recovery
-* Interactive Chart.js spending analytics
-* RESTful APIs with live net balance sync
-
-<p>
-<a href="https://spend-wise-nu.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-&nbsp;
-<a href="https://github.com/piyushb03/SpendWise"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-# 🏆 Achievements & Certifications
-
-* 🥇 **HackerRank Gold Badge** — Python
-* 🥈 **HackerRank Silver Badges** — C, SQL
-* ✅ **200+ DSA Problems** — LeetCode, HackerRank, CodeChef
-* 🎓 **IBM** — Web Development Virtual Internship (PBEL)
-* 🎓 **Cisco** — Programming Essentials in Python
-* 🎓 **Cisco** — Programming Essentials in C++
 
 ---
 
