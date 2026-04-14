@@ -121,5 +121,3 @@ Computer Science student passionate about building full-stack applications, ML-i
 ---
 
 ⭐ From **Piyush Baghel**
-
-https://github.com/piyushb03
