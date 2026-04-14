@@ -15,18 +15,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 </p>
 
 ---
-
-# 🚀 About Me
-
-* 🎓 **B.Tech CS — ABES Engineering College, Ghaziabad | CGPA: 8.29**
-* 💻 **Building Full Stack Apps with Python, Flask, React.js & SQL**
-* 🤖 **Integrating ML Models into production web applications**
-* 🧠 **200+ DSA Problems solved on LeetCode, HackerRank & CodeChef**
-* ⭐ **HackerRank Gold Badge — Python | Silver — C, SQL**
-* ⚡ **Exploring Automation with n8n, AI tools & AI workflows**
-
----
-
 # 🌐 Connect With Me
 
 <p>
