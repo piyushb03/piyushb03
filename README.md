@@ -104,20 +104,6 @@ Computer Science student passionate about building full-stack applications, ML-i
 
 </p>
 
-### AI / ML
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-</p>
-
 ---
 
 ⭐ From **Piyush Baghel**
